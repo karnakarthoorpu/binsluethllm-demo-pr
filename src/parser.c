@@ -3,9 +3,6 @@
 #include "parser.h"
 
 int copy_name(const uint8_t *src, size_t len, char *dst) {
-    (void)src;
-    (void)len;
-    (void)dst;
     return 0;
 }
 
